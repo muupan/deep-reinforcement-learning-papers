@@ -19,6 +19,7 @@ PRs are welcome.
 
  - [Papers](#Papers)
  - [Talks/Slides](#Talks/Slides)
+ - [Miscellaneous](#Miscellaneous)
 
 ## Papers
 
@@ -53,3 +54,9 @@ PRs are welcome.
  - S. Levine, **Deep Learning for Decision Making and Control**, 2015. [video](https://www.youtube.com/watch?v=EtMyH_--vnU)
  - D. Silver, **Deep Reinforcement Learning**, ICLR 2015, 2015. [video1](https://www.youtube.com/watch?v=EX1CIVVkWdE) [video2](https://www.youtube.com/watch?v=zXa6UFLQCtg) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
  - D. Silver, **Deep Reinforcement Learning**, UAI 2015, 2015. [video](https://www.youtube.com/watch?v=qLaDWKd61Ig)
+
+## Miscellaneous
+
+ - [Deep Q-Learning - Google Group](https://groups.google.com/forum/#!forum/deep-q-learning)
+ - [CS 294 Deep Reinforcement Learning, Fall 2015](http://rll.berkeley.edu/deeprlcourse/)
+
