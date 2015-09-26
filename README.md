@@ -7,7 +7,6 @@ Please note that this list is currently work-in-progress and far from complete.
 ## TODOs
 
  - Add more and more papers
- - Add talks and slides
  - Improve the way of classifying papers (tags may be useful)
  - Create a policy of this list: curated or comprehensive, how to define "deep reinforcement learning", etc.
 
