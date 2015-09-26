@@ -13,7 +13,7 @@ Please note that this list is currently work-in-progress and far from complete.
 
 ## Contributing
 
-PRs are welcome.
+If you want to inform the maintainer of a new paper, feel free to contact [@mooopan](https://twitter.com/mooopan). Issues and PRs are also welcome.
 
 ## Table of Contents
 
