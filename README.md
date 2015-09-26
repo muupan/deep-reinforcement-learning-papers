@@ -25,7 +25,9 @@ PRs are welcome.
 ### Deep Value Function
 
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonglou, D. Wierstra, and M. Riedmiller, **Playing Atari with Deep Reinforcement Learning**, NIPS 2014 Deep Learning Workshop, 2013. [pdf](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+   - Deep Q-Network (DQN) with experience replay
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. a Rusu, J. Veness, M. G. Bellemare, A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen, C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra, S. Legg, and D. Hassabis, **Human-level control through deep reinforcement learning**, Nature, 2015. [pdf](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf)
+   - Deep Q-Network (DQN) with experience replay and target network
 
 ### Deep Policy
 
