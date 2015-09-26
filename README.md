@@ -30,6 +30,8 @@ PRs are welcome.
    - Deep Q-Network (DQN) with experience replay
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. a Rusu, J. Veness, M. G. Bellemare, A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen, C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra, S. Legg, and D. Hassabis, **Human-level control through deep reinforcement learning**, Nature, 2015. [pdf](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf)
    - Deep Q-Network (DQN) with experience replay and target network
+ - A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria, M. Suleyman, C. Beattie, S. Petersen, S. Legg, V. Mnih, and D. Silver, **Massively Parallel Methods for Deep Reinforcement Learnin**, ICML Deep Learning Workshop 2015, 2015. [pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)
+   - Gorila (General Reinforcement Learning Architecture)
  - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.06527)
  - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, Arxiv. 2015. [arxiv](http://arxiv.org/abs/1509.01549)
  - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.06461)
