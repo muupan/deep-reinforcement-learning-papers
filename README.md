@@ -38,6 +38,7 @@ PRs are welcome.
  - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.06527)
  - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, Arxiv. 2015. [arxiv](http://arxiv.org/abs/1509.01549)
  - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.06461)
+   - Double DQN
 
 ### Deep Policy
 
