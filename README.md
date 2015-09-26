@@ -46,3 +46,5 @@ PRs are welcome.
 
 ## Talks/Slides
 
+ - S. Levine, **Deep Learning for Decision Making and Control**, 2015. [video](https://www.youtube.com/watch?v=EtMyH_--vnU)
+ - D. Silver, **Deep Reinforcement Learning**, ICLR 2015, 2015. [video1](https://www.youtube.com/watch?v=EX1CIVVkWdE) [video2](https://www.youtube.com/watch?v=zXa6UFLQCtg) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
