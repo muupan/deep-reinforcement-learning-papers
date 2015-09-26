@@ -38,6 +38,8 @@ PRs are welcome.
 
 ### Deep Policy
 
+ - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1504.00702)
+   - partially observed guided policy search
  - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML 2015, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.02971)
 
@@ -50,3 +52,4 @@ PRs are welcome.
 
  - S. Levine, **Deep Learning for Decision Making and Control**, 2015. [video](https://www.youtube.com/watch?v=EtMyH_--vnU)
  - D. Silver, **Deep Reinforcement Learning**, ICLR 2015, 2015. [video1](https://www.youtube.com/watch?v=EX1CIVVkWdE) [video2](https://www.youtube.com/watch?v=zXa6UFLQCtg) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
+ - D. Silver, **Deep Reinforcement Learning**, UAI 2015, 2015. [video](https://www.youtube.com/watch?v=qLaDWKd61Ig)
