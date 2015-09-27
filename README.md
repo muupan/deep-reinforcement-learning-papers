@@ -34,7 +34,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
    - Gorila (General Reinforcement Learning Architecture)
  - K. Narasimhan, T. Kulkarni, and R. Barzilay, **Language Understanding for Text-based Games Using Deep Reinforcement Learning**, EMNLP 2015, 2015. [pdf](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf) [supplementary](http://people.csail.mit.edu/karthikn/pdfs/mud-supp.pdf) [code](http://people.csail.mit.edu/karthikn/mud-play/)
    - LSTM-DQN
- - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.06527)
+ - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.06527) [code](https://github.com/mhauskn/dqn/tree/recurrent)
  - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, Arxiv. 2015. [arxiv](http://arxiv.org/abs/1509.01549) [code](https://bitbucket.org/waterreaction/giraffe)
  - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.06461)
    - Double DQN
