@@ -16,9 +16,9 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
 ## Table of Contents
 
- - [Papers](#Papers)
- - [Talks/Slides](#Talks/Slides)
- - [Miscellaneous](#Miscellaneous)
+ - [Papers](#papers)
+ - [Talks/Slides](#talksslides)
+ - [Miscellaneous](#miscellaneous)
 
 ## Papers
 
