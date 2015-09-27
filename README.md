@@ -28,6 +28,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
    - Deep Fitted Q-Iteration (DFQ)
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonglou, D. Wierstra, and M. Riedmiller, **Playing Atari with Deep Reinforcement Learning**, NIPS 2013 Deep Learning Workshop, 2013. [pdf](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
    - Deep Q-Network (DQN) with experience replay
+ - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS 2014, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. a Rusu, J. Veness, M. G. Bellemare, A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen, C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra, S. Legg, and D. Hassabis, **Human-level control through deep reinforcement learning**, Nature, 2015. [pdf](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) [code](https://sites.google.com/a/deepmind.com/dqn/)
    - Deep Q-Network (DQN) with experience replay and target network
  - T. Schaul, D. Horgan, K. Gregor, and D. Silver, **Universal Value Function Approximators**, ICML 2015, 2015. [pdf](http://schaul.site44.com/publications/uvfa.pdf)
