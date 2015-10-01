@@ -28,7 +28,6 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
    - Deep Fitted Q-Iteration (DFQ)
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonglou, D. Wierstra, and M. Riedmiller, **Playing Atari with Deep Reinforcement Learning**, NIPS 2013 Deep Learning Workshop, 2013. [pdf](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
    - Deep Q-Network (DQN) with experience replay
- - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS 2014, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. a Rusu, J. Veness, M. G. Bellemare, A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen, C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra, S. Legg, and D. Hassabis, **Human-level control through deep reinforcement learning**, Nature, 2015. [pdf](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) [code](https://sites.google.com/a/deepmind.com/dqn/)
    - Deep Q-Network (DQN) with experience replay and target network
  - T. Schaul, D. Horgan, K. Gregor, and D. Silver, **Universal Value Function Approximators**, ICML 2015, 2015. [pdf](http://schaul.site44.com/publications/uvfa.pdf)
@@ -46,12 +45,21 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1504.00702)
    - partially observed guided policy search
  - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML 2015, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
+
+### Deep Actor-Criti
+
+ - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1506.02438)
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.02971)
 
 ### Deep Model
 
  - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.00814)
  - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arxiv](http://arxiv.org/abs/1507.08750)
+
+### Unclassified
+
+ - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS 2014, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
+- S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.08731)
 
 ## Talks/Slides
 
