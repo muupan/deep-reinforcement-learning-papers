@@ -46,7 +46,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
    - partially observed guided policy search
  - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML 2015, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
-### Deep Actor-Criti
+### Deep Actor-Critic
 
  - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1506.02438)
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.02971)
