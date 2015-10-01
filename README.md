@@ -35,31 +35,31 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
    - Gorila (General Reinforcement Learning Architecture)
  - K. Narasimhan, T. Kulkarni, and R. Barzilay, **Language Understanding for Text-based Games Using Deep Reinforcement Learning**, EMNLP 2015, 2015. [pdf](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf) [supplementary](http://people.csail.mit.edu/karthikn/pdfs/mud-supp.pdf) [code](http://people.csail.mit.edu/karthikn/mud-play/)
    - LSTM-DQN
- - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.06527) [code](https://github.com/mhauskn/dqn/tree/recurrent)
- - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, Arxiv. 2015. [arxiv](http://arxiv.org/abs/1509.01549) [code](https://bitbucket.org/waterreaction/giraffe)
- - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.06461)
+ - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.06527) [code](https://github.com/mhauskn/dqn/tree/recurrent)
+ - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, arXiv. 2015. [arXiv](http://arxiv.org/abs/1509.01549) [code](https://bitbucket.org/waterreaction/giraffe)
+ - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.06461)
    - Double DQN
 
 ### Deep Policy
 
- - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1504.00702)
+ - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1504.00702)
    - partially observed guided policy search
  - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML 2015, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
 ### Deep Actor-Criti
 
- - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1506.02438)
- - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.02971)
+ - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1506.02438)
+ - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.02971)
 
 ### Deep Model
 
- - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1507.00814)
- - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arxiv](http://arxiv.org/abs/1507.08750)
+ - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.00814)
+ - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arXiv](http://arxiv.org/abs/1507.08750)
 
 ### Unclassified
 
  - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS 2014, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
-- S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, Arxiv, 2015. [arxiv](http://arxiv.org/abs/1509.08731)
+- S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.08731)
 
 ## Talks/Slides
 
