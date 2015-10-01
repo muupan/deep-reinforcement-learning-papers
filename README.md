@@ -72,4 +72,5 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - [Deep Q-Learning - Google Group](https://groups.google.com/forum/#!forum/deep-q-learning)
  - [CS 294 Deep Reinforcement Learning, Fall 2015](http://rll.berkeley.edu/deeprlcourse/)
  - [Deep Reinforcement Learning Workshop, NIPS 2015](http://rll.berkeley.edu/deeprlworkshop/)
+ - [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 
