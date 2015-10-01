@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Papers (Work-in-Progress)
+# Deep Reinforcement Learning Papers
 
 A list of papers and resources dedicated to deep reinforcement learning. 
 
