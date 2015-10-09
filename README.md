@@ -50,11 +50,13 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
  - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1506.02438)
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.02971)
+ - D. Balduzzi and M. Ghifary, **Compatible Value Gradients for Reinforcement Learning of Continuous Deep Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.03005)
 
 ### Deep Model
 
  - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.00814)
  - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arXiv](http://arxiv.org/abs/1507.08750)
+ - J. M. Assael, W. Om, T. B. Schön, and M. P. Deisenroth, **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**, arXiv, 2015 [arXiv](http://arxiv.org/abs/1510.02173)
 
 ### Unclassified
 
