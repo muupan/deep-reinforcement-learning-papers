@@ -22,6 +22,12 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
 ## Papers
 
+ - [Deep Value Function](#deep-value-function)
+ - [Deep Policy](#deep-policy)
+ - [Deep Actor-Critic](#deep-actor-critic)
+ - [Deep Model](#deep-model)
+ - [Unclassified](#unclassified)
+
 ### Deep Value Function
 
  - S. Lange and M. Riedmiller, **Deep Learning of Visual Control Policies**, ESANN 2010. [pdf](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2010-87.pdf)
