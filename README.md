@@ -26,6 +26,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - [Deep Policy](#deep-policy)
  - [Deep Actor-Critic](#deep-actor-critic)
  - [Deep Model](#deep-model)
+ - [Application to Non-RL Tasks](#application-to-non-rl-tasks)
  - [Unclassified](#unclassified)
 
 ### Deep Value Function
@@ -63,6 +64,10 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.00814)
  - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arXiv](http://arxiv.org/abs/1507.08750)
  - J. M. Assael, W. Om, T. B. Schön, and M. P. Deisenroth, **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**, arXiv, 2015 [arXiv](http://arxiv.org/abs/1510.02173)
+
+### Application to Non-RL Tasks
+
+- J. C. Caicedo and S. Lazebnik, **Active Object Localization with Deep Reinforcement Learning**, ICCV 2015, 2015. [pdf](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)
 
 ### Unclassified
 
