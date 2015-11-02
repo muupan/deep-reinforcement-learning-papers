@@ -68,6 +68,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 ### Application to Non-RL Tasks
 
 - J. C. Caicedo and S. Lazebnik, **Active Object Localization with Deep Reinforcement Learning**, ICCV 2015, 2015. [pdf](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)
+- H. Guo, **Generating Text with Deep Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1510.09202)
 
 ### Unclassified
 
