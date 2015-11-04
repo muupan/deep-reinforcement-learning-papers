@@ -58,6 +58,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel, **High-Dimensional Continuous Control Using Generalized Advantage Estimation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1506.02438)
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.02971)
  - D. Balduzzi and M. Ghifary, **Compatible Value Gradients for Reinforcement Learning of Continuous Deep Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.03005)
+ - N. Heess, G. Wayne, D. Silver, T. Lillicrap, Y. Tassa, and T. Erez, **Learning Continuous Control Policies by Stochastic Value Gradients**, NIPS, 2015. [arXiv](http://arxiv.org/abs/1510.09142) [video](https://www.youtube.com/watch?v=PYdL7bcn_cM)
 
 ### Deep Model
 
