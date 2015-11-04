@@ -31,16 +31,16 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
 ### Deep Value Function
 
- - S. Lange and M. Riedmiller, **Deep Learning of Visual Control Policies**, ESANN 2010. [pdf](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2010-87.pdf)
+ - S. Lange and M. Riedmiller, **Deep Learning of Visual Control Policies**, ESANN, 2010. [pdf](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2010-87.pdf)
    - Deep Fitted Q-Iteration (DFQ)
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonglou, D. Wierstra, and M. Riedmiller, **Playing Atari with Deep Reinforcement Learning**, NIPS 2013 Deep Learning Workshop, 2013. [pdf](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
    - Deep Q-Network (DQN) with experience replay
  - V. Mnih, K. Kavukcuoglu, D. Silver, A. a Rusu, J. Veness, M. G. Bellemare, A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen, C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra, S. Legg, and D. Hassabis, **Human-level control through deep reinforcement learning**, Nature, 2015. [pdf](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) [code](https://sites.google.com/a/deepmind.com/dqn/)
    - Deep Q-Network (DQN) with experience replay and target network
- - T. Schaul, D. Horgan, K. Gregor, and D. Silver, **Universal Value Function Approximators**, ICML 2015, 2015. [pdf](http://schaul.site44.com/publications/uvfa.pdf)
- - A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria, M. Suleyman, C. Beattie, S. Petersen, S. Legg, V. Mnih, and D. Silver, **Massively Parallel Methods for Deep Reinforcement Learning**, ICML 2015 Deep Learning Workshop, 2015. [pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)
+ - T. Schaul, D. Horgan, K. Gregor, and D. Silver, **Universal Value Function Approximators**, ICML, 2015. [pdf](http://schaul.site44.com/publications/uvfa.pdf)
+ - A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria, M. Suleyman, C. Beattie, S. Petersen, S. Legg, V. Mnih, and D. Silver, **Massively Parallel Methods for Deep Reinforcement Learning**, ICML Deep Learning Workshop, 2015. [pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf)
    - Gorila (General Reinforcement Learning Architecture)
- - K. Narasimhan, T. Kulkarni, and R. Barzilay, **Language Understanding for Text-based Games Using Deep Reinforcement Learning**, EMNLP 2015, 2015. [pdf](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf) [supplementary](http://people.csail.mit.edu/karthikn/pdfs/mud-supp.pdf) [code](http://people.csail.mit.edu/karthikn/mud-play/)
+ - K. Narasimhan, T. Kulkarni, and R. Barzilay, **Language Understanding for Text-based Games Using Deep Reinforcement Learning**, EMNLP, 2015. [pdf](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf) [supplementary](http://people.csail.mit.edu/karthikn/pdfs/mud-supp.pdf) [code](http://people.csail.mit.edu/karthikn/mud-play/)
    - LSTM-DQN
  - M. Hausknecht and P. Stone, **Deep Recurrent Q-Learning for Partially Observable MDPs**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.06527) [code](https://github.com/mhauskn/dqn/tree/recurrent)
  - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, arXiv. 2015. [arXiv](http://arxiv.org/abs/1509.01549) [code](https://bitbucket.org/waterreaction/giraffe)
@@ -51,7 +51,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
  - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1504.00702)
    - partially observed guided policy search
- - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML 2015, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
+ - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
 ### Deep Actor-Critic
 
@@ -62,24 +62,24 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 ### Deep Model
 
  - B. C. Stadie, S. Levine, and P. Abbeel, **Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1507.00814)
- - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS 2015, 2015. [arXiv](http://arxiv.org/abs/1507.08750)
+ - J. Oh, X. Guo, H. Lee, R. Lewis, and S. Singh, **Action-Conditional Video Prediction using Deep Networks in Atari Games**, NIPS, 2015. [arXiv](http://arxiv.org/abs/1507.08750)
  - J. M. Assael, W. Om, T. B. Schön, and M. P. Deisenroth, **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**, arXiv, 2015 [arXiv](http://arxiv.org/abs/1510.02173)
 
 ### Application to Non-RL Tasks
 
-- J. C. Caicedo and S. Lazebnik, **Active Object Localization with Deep Reinforcement Learning**, ICCV 2015, 2015. [pdf](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)
+- J. C. Caicedo and S. Lazebnik, **Active Object Localization with Deep Reinforcement Learning**, ICCV, 2015. [pdf](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)
 - H. Guo, **Generating Text with Deep Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1510.09202)
 
 ### Unclassified
 
- - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS 2014, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
+ - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
  - S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.08731)
 
 ## Talks/Slides
 
  - S. Levine, **Deep Learning for Decision Making and Control**, 2015. [video](https://www.youtube.com/watch?v=EtMyH_--vnU)
- - D. Silver, **Deep Reinforcement Learning**, ICLR 2015, 2015. [video1](https://www.youtube.com/watch?v=EX1CIVVkWdE) [video2](https://www.youtube.com/watch?v=zXa6UFLQCtg) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
- - D. Silver, **Deep Reinforcement Learning**, UAI 2015, 2015. [video](https://www.youtube.com/watch?v=qLaDWKd61Ig)
+ - D. Silver, **Deep Reinforcement Learning**, ICLR, 2015. [video1](https://www.youtube.com/watch?v=EX1CIVVkWdE) [video2](https://www.youtube.com/watch?v=zXa6UFLQCtg) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)
+ - D. Silver, **Deep Reinforcement Learning**, UAI, 2015. [video](https://www.youtube.com/watch?v=qLaDWKd61Ig)
 
 ## Miscellaneous
 
