@@ -46,6 +46,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - M. Lai, **Giraffe: Using Deep Reinforcement Learning to Play Chess**, arXiv. 2015. [arXiv](http://arxiv.org/abs/1509.01549) [code](https://bitbucket.org/waterreaction/giraffe)
  - H. van Hasselt, A. Guez, and D. Silver, **Deep reinforcement learning with double q-learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.06461)
    - Double DQN
+ - F. Zhang, J. Leitner, M. Milford, B. Upcroft, and P. Corke, **Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control**, in ACRA, 2015. [pdf](http://juxi.net/papers/others/zhang2015acra-submission.pdf)
 
 ### Deep Policy
 
@@ -59,6 +60,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver, and D. Wierstra, **Continuous control with deep reinforcement learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.02971)
  - D. Balduzzi and M. Ghifary, **Compatible Value Gradients for Reinforcement Learning of Continuous Deep Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.03005)
  - N. Heess, G. Wayne, D. Silver, T. Lillicrap, Y. Tassa, and T. Erez, **Learning Continuous Control Policies by Stochastic Value Gradients**, NIPS, 2015. [arXiv](http://arxiv.org/abs/1510.09142) [video](https://www.youtube.com/watch?v=PYdL7bcn_cM)
+ - M. Hausknecht and P. Stone, **Deep Reinforcement Learning in Parameterized Action Space**, arXiv. 2015. [arXiv](http://arxiv.org/abs/1511.04143)
 
 ### Deep Model
 
