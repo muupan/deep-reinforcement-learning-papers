@@ -49,6 +49,8 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - F. Zhang, J. Leitner, M. Milford, B. Upcroft, and P. Corke, **Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control**, in ACRA, 2015. [pdf](http://juxi.net/papers/others/zhang2015acra-submission.pdf)
  - T. Schaul, J. Quan, I. Antonoglou, and D. Silver, **Prioritized Experience Replay**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.05952)
  - Z. Wang, N. de Freitas, and M. Lanctot, **Dueling Network Architectures for Deep Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.06581)
+ - V. François-Lavet, R. Fonteneau, and D. Ernst, **How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.02011)
+ - I. Sorokin, A. Seleznev, M. Pavlov, A. Fedorov, and A. Ignateva, **Deep Attention Recurrent Q-Network**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.01693)
 
 ### Deep Policy
 
