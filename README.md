@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning Papers
 
-A list of papers and resources dedicated to deep reinforcement learning. 
+A list of papers and resources dedicated to deep reinforcement learning.
 
 Please note that this list is currently work-in-progress and far from complete.
 
@@ -51,6 +51,8 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - Z. Wang, N. de Freitas, and M. Lanctot, **Dueling Network Architectures for Deep Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.06581)
  - V. François-Lavet, R. Fonteneau, and D. Ernst, **How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.02011)
  - I. Sorokin, A. Seleznev, M. Pavlov, A. Fedorov, and A. Ignateva, **Deep Attention Recurrent Q-Network**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.01693)
+ - A. A. Rusu, S. G. Colmenarejo, C. Gulcehre, G. Desjardins, J. Kirkpatrick, R. Pascanu, V. Mnih, K. Kavukcuoglu, and R. Hadsell, **Policy Distillation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.06295)
+ - M. G. Bellemare, G. Ostrovski, A. Guez, P. S. Thomas, and R. Munos, **Increasing the Action Gap: New Operators for Reinforcement Learning**, AAAI, 2016. [arXiv](http://arxiv.org/abs/1512.04860)
 
 ### Deep Policy
 
