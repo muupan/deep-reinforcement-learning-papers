@@ -53,6 +53,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - I. Sorokin, A. Seleznev, M. Pavlov, A. Fedorov, and A. Ignateva, **Deep Attention Recurrent Q-Network**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.01693)
  - A. A. Rusu, S. G. Colmenarejo, C. Gulcehre, G. Desjardins, J. Kirkpatrick, R. Pascanu, V. Mnih, K. Kavukcuoglu, and R. Hadsell, **Policy Distillation**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.06295)
  - M. G. Bellemare, G. Ostrovski, A. Guez, P. S. Thomas, and R. Munos, **Increasing the Action Gap: New Operators for Reinforcement Learning**, AAAI, 2016. [arXiv](http://arxiv.org/abs/1512.04860)
+ - D. Silver, A. Huang, C. J. Maddison, A. Guez, L. Sifre, G. Van Den Driessche, J. Schrittwieser, I. Antonoglou, V. Panneershelvam, M. Lanctot, S. Dieleman, D. Grewe, J. Nham, N. Kalchbrenner, I. Sutskever, T. Lillicrap, M. Leach, K. Kavukcuoglu, T. Graepel, and D. Hassabis, **Mastering the game of Go with deep neural networks and tree search**, Nature, 2016. [pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
 
 ### Deep Policy
 
