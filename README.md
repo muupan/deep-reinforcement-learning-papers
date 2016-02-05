@@ -68,6 +68,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - D. Balduzzi and M. Ghifary, **Compatible Value Gradients for Reinforcement Learning of Continuous Deep Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.03005)
  - M. Hausknecht and P. Stone, **Deep Reinforcement Learning in Parameterized Action Space**, arXiv. 2015. [arXiv](http://arxiv.org/abs/1511.04143)
  - N. Heess, J. J. Hunt, T. P. Lillicrap, and D. Silver, **Memory-based control with recurrent neural networks**, NIPS Deep Reinforcement Learning Workshop, 2015. [arXiv](http://arxiv.org/abs/1512.04455)
+ - V. Mnih, A. P. Badia, M. Mirza, A. Graves, T. P. Lillicrap, T. Harley, D. Silver, and K. Kavukcuoglu, **Asynchronous Methods for Deep Reinforcement Learning**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.01783)
 
 ### Deep Model
 
