@@ -56,6 +56,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - D. Silver, A. Huang, C. J. Maddison, A. Guez, L. Sifre, G. Van Den Driessche, J. Schrittwieser, I. Antonoglou, V. Panneershelvam, M. Lanctot, S. Dieleman, D. Grewe, J. Nham, N. Kalchbrenner, I. Sutskever, T. Lillicrap, M. Leach, K. Kavukcuoglu, T. Graepel, and D. Hassabis, **Mastering the game of Go with deep neural networks and tree search**, Nature, 2016. [pdf](https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf)
  - T. Zahavy, N. Ben Zrihem, and S. Mannor, **Graying the black box: Understanding DQNs**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.02658)
  - J. N. Foerster, Y. M. Assael, N. de Freitas, and S. Whiteson, **Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.02672)
+ - I. Osband, C. Blundell, A. Pritzel, and B. Van Roy, **Deep Exploration via Bootstrapped DQN**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.04621)
 
 ### Deep Policy
 
@@ -84,6 +85,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
 
 - J. C. Caicedo and S. Lazebnik, **Active Object Localization with Deep Reinforcement Learning**, ICCV, 2015. [pdf](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)
 - H. Guo, **Generating Text with Deep Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1510.09202)
+- S. Hansen, **Using Deep Q-Learning to Control Optimization Hyperparameters**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.04062)
 
 ### Unclassified
 
