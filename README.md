@@ -92,6 +92,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - X. Guo, S. Singh, H. Lee, R. Lewis, and X. Wang, **Deep learning for real-time Atari game play using offline Monte-Carlo tree search planning**, NIPS, 2014. [pdf](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) [video](https://sites.google.com/site/nips2014atari/)
  - S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.08731)
  - Y. Liang, M. C. Machado, E. Talvitie, and M. Bowling, **State of the Art Control of Atari Games Using Shallow Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1512.01563)
+ - A. Tamar, S. Levine, and P. Abbeel, **Value Iteration Networks**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.02867)
 
 ## Talks/Slides
 
