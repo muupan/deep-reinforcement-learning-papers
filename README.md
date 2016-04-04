@@ -83,6 +83,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - J. M. Assael, W. Om, T. B. Schön, and M. P. Deisenroth, **Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models**, arXiv, 2015 [arXiv](http://arxiv.org/abs/1510.02173)
  - N. Heess, G. Wayne, D. Silver, T. Lillicrap, Y. Tassa, and T. Erez, **Learning Continuous Control Policies by Stochastic Value Gradients**, NIPS, 2015. [arXiv](http://arxiv.org/abs/1510.09142) [video](https://www.youtube.com/watch?v=PYdL7bcn_cM)
  - J. Schmidhuber, **On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1511.09249)
+ - K. Fragkiadaki, P. Agrawal, S. Levine, and J. Malik, **Learning Visual Predictive Models of Physics for Playing Billiards**, ICLR, 2016. [arXiv](http://arxiv.org/abs/1511.07404)
 
 ### Application to Non-RL Tasks
 
