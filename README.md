@@ -60,6 +60,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - T. Salimans and D. P. Kingma, **Weight Normalization : A Simple Reparameterization to Accelerate Training of Deep Neural Networks**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.07868)
  - S. Gu, T. Lillicrap, I. Sutskever, and S. Levine, **Continuous Deep Q-Learning with Model-based Acceleration**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1603.00748)
  - J. Heinrich and D. Silver, **Deep Reinforcement Learning from Self-Play in Imperfect-Information Games**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1603.01121)
+ - T. D. Kulkarni, K. R. Narasimhan, A. Saeedi, and J. B. Tenenbaum, **Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1604.06057)
 
 ### Deep Policy
 
