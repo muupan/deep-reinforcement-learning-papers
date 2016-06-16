@@ -61,12 +61,15 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - S. Gu, T. Lillicrap, I. Sutskever, and S. Levine, **Continuous Deep Q-Learning with Model-based Acceleration**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1603.00748)
  - J. Heinrich and D. Silver, **Deep Reinforcement Learning from Self-Play in Imperfect-Information Games**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1603.01121)
  - T. D. Kulkarni, K. R. Narasimhan, A. Saeedi, and J. B. Tenenbaum, **Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1604.06057)
+ - J. Oh, V. Chockalingam, S. Singh, and H. Lee, **Control of Memory, Active Perception, and Action in Minecraft**, ICML, 2016. [arXiv](http://arxiv.org/abs/1605.09128)
+ - T. D. Kulkarni, A. Saeedi, S. Gautam, and S. J. Gershman, **Deep Successor Reinforcement Learning**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1606.02396)
 
 ### Deep Policy
 
  - S. Levine, C. Finn, T. Darrell, and P. Abbeel, **End-to-End Training of Deep Visuomotor Policies**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1504.00702)
    - partially observed guided policy search
  - J. Schulman, S. Levine, P. Moritz, M. Jordan, and P. Abbeel, **Trust Region Policy Optimization**, ICML, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
+ - T. Zhang, G. Kahn, S. Levine, and P. Abbeel, **Learning Deep Control Policies for Autonomous Aerial Vehicles with MPC-Guided Policy Search**, ICRA, 2016. [arXiv](http://arxiv.org/abs/1509.06791)
 
 ### Deep Actor-Critic
 
@@ -98,6 +101,7 @@ If you want to inform the maintainer of a new paper, feel free to contact [@mooo
  - S. Mohamed and D. J. Rezende, **Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1509.08731)
  - Y. Liang, M. C. Machado, E. Talvitie, and M. Bowling, **State of the Art Control of Atari Games Using Shallow Reinforcement Learning**, arXiv, 2015. [arXiv](http://arxiv.org/abs/1512.01563)
  - A. Tamar, S. Levine, and P. Abbeel, **Value Iteration Networks**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1602.02867)
+ - C. Blundell, G. Deepmind, B. Uria, A. Pritzel, Y. Li, A. Ruderman, J. Z. Leibo, J. Rae, D. Wierstra, and D. Hassabis, **Model-Free Episodic Control**, arXiv, 2016. [arXiv](http://arxiv.org/abs/1606.04460)
 
 ## Talks/Slides
 
